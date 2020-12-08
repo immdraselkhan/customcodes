@@ -1,1 +1,1 @@
-It's not working on WHMCS 8.0
+It's working on WHMCS 8.0
